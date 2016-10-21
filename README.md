@@ -1,2 +1,2 @@
 # Data-Viz
-My name is Lindsey J. Taub
+My name is Lindsey J. Taub. I am a student at **Lehigh University**.
